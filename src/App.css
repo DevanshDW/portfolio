@@ -1,0 +1,95 @@
+.header-color {
+    background: #56ab2f;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.position {
+    position: sticky;
+    top: 0;
+}
+
+.landing-grid {
+background: #BFC0C0;
+
+
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.projects-grid {
+ display: flex;
+ background-color: #BFC0C0;
+ padding: 8em;
+
+
+}
+
+.btn-color {
+    width: 300px;
+
+
+}
+
+/* Resume Page css */
+
+.bg-for-resume {
+    background-color: #BFC0C0;
+}
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 1em;
+
+}
+
+.banner-text h1 {
+    color: black;
+}
+
+
+.banner-text {
+  background:#DC4D49;
+  width: 75%;
+  margin-top: 190px;
+  margin-left: 140px;
+  border-radius: 20px;
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+.banner-text hr {
+  border-top: 5px dotted black;
+  width: 37%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: black;
+  font-size: 5em;
+  padding: 8px;
+}
